@@ -1,6 +1,6 @@
 <img src="https://media.alors-la.center/s/0zy8jsie.png">
 
-<h1 align="center">Programming stacks</h1>
+<h1 align="center">Tech stacks</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
