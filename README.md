@@ -2,4 +2,4 @@
 
 <h1 align="center">Programming stacks</h1>
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40">
+![https://cdn.worldvectorlogo.com/logos/python-5.svg](python)
