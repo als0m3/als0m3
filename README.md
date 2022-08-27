@@ -40,4 +40,16 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
 </p>
 
-![Snake animation](https://github.com/antonin-alves/antonin-alves/blob/main/VoDtknrb.svg)
+## You can find me on
+
+<p>
+<a href="https://www.codingame.com/profile/5240fff1bb9b8d1aff6e2af45b8277fa2200374">
+  <img src="https://img.shields.io/badge/Coding Game-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
+</a>  
+</p>
+
+<p>
+<a href="https://www.root-me.org/Als0M3?lang=fr">
+  <img src="https://img.shields.io/badge/Root Me-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
+</a>
+</p>
