@@ -40,4 +40,4 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
 </p>
 
-<img src="https://platane.github.io/snk/" />
+![Snake animation](https://github.com/antonin-alves/antonin-alves/blob/main/VoDtknrb.svg)
