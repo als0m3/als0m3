@@ -32,7 +32,6 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Heroku-%2320232a?style=for-the-badge&logo=heroku&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Dokku-%2320232a.svg?style=for-the-badge&logo=dokku&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB"/>
 </p>
@@ -41,12 +40,6 @@ My brain is almost fully Open source.
 </p>
 
 ## You can find me on
-
-<p>
-<a href="https://www.codingame.com/profile/5240fff1bb9b8d1aff6e2af45b8277fa2200374">
-  <img src="https://img.shields.io/badge/Coding Game-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
-</a>  
-</p>
 
 <p>
 <a href="https://www.root-me.org/Als0M3?lang=fr">
