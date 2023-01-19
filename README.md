@@ -39,7 +39,7 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
 </p>
 
-## You can find me on
+## You can stalk me on
 
 <p>
 <a href="https://www.root-me.org/Als0M3?lang=fr">
