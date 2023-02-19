@@ -30,6 +30,7 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/Flask-%2320232a?style=for-the-badge&logo=flask&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/VueJS-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/ExpressJS-%2320232a.svg?style=for-the-badge&logo=expressjs&logoColor=%2361DAFB"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/Dokku-%2320232a.svg?style=for-the-badge&logo=dokku&logoColor=%2361DAFB"/>
