@@ -46,4 +46,7 @@ My brain is almost fully Open source.
 <a href="https://www.root-me.org/Als0M3?lang=fr">
   <img src="https://img.shields.io/badge/Root Me-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
 </a>
+<a href="https://ozint.eu/ozinter/5007/">
+  <img src="https://img.shields.io/badge/Ozint-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
+</a>
 </p>
