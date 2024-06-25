@@ -2,12 +2,13 @@
 
 <img align="left" width="300" height="300" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif">
 
- Hi ! I'm `someone`
+ **Hi !  
+ I'm `someone`** *(human)*   
 
 
 IT fun guy
 Mind full of ideas, I am constantly scripting and programming cool stuff.   
-I'm a Self Hosting adept, my servers are full of services (Nextcloud, Emby, Dokku ...)   
+Self Hosting adept, my servers are full of services (Nextcloud, Emby, Dokku ...)   
 My brain is almost fully Open source.
 
 `I code open source` `I enjoy helping` `I write about tech`   
@@ -36,12 +37,14 @@ My brain is almost fully Open source.
 <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
 </p>
 
-## You can stalk me on
+## :mag: You can stalk me on
 
 <p>
 <a href="https://www.root-me.org/Als0M3?lang=fr">
   <img src="https://img.shields.io/badge/Root Me-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
 </a>
+</p>
+<p>
 <a href="https://ozint.eu/ozinter/5007/">
   <img src="https://img.shields.io/badge/Ozint-purple?style=for-the-badge&logo=game&logoColor=%23161B22">
 </a>
