@@ -2,9 +2,8 @@
 
 <img align="left" width="300" height="300" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif">
 
+ Hi ! I'm `someone`
 
-
-## Hi ! I'm `someone`
 
 IT fun guy
 Mind full of ideas, I am constantly scripting and programming cool stuff.   
@@ -13,28 +12,25 @@ My brain is almost fully Open source.
 
 `I code open source` `I enjoy helping` `I write about tech`   
 
->> Work hard to work easier
+
 <div height="300"></div>
 
 ---
----
+>> Work hard to work easier
+
+---       
 
 ## :computer: Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/JS-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=%2361DAFB"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Flask-%2320232a?style=for-the-badge&logo=flask&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/VueJS-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/ExpressJS-%2320232a.svg?style=for-the-badge&logo=expressjs&logoColor=%2361DAFB"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Dokku-%2320232a.svg?style=for-the-badge&logo=dokku&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-%2320232a?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/ExpressJS-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Tokio-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=%2361DAFB"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
