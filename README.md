@@ -51,6 +51,7 @@ See each repository for its setup and limitations.
 Interested in self-hosting, infrastructure automation, Python, or MCP?
 I'm happy to exchange ideas, discuss technical challenges, and explore collaborations.
 
+[Technical profile](https://als0m3.github.io/curriculum-vitae/) ·
 [Email](mailto:als0m3@proton.me) ·
 [LinkedIn](https://www.linkedin.com/in/lets-create-something-cool/) ·
 [All public repositories](https://github.com/als0m3?tab=repositories&type=public)
