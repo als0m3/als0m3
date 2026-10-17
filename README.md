@@ -52,18 +52,6 @@ and AI agents, built at [VADO](https://github.com/vado-innovation-tech).
 
 **Rust · Java · Keycloak · MCP · Security**
 
-## More projects
-
-A selection of earlier projects exploring APIs, developer tools, and automation.
-See each repository for its setup and limitations.
-
-| Project | What it does |
-| --- | --- |
-| [Flask-Guardian](https://github.com/als0m3/Flask-Guardian) | Chainable request-validation rules for Flask, inspired by Joi. |
-| [reddit2notion](https://github.com/als0m3/reddit2notion) | Import saved Reddit posts into a Notion database. |
-| [discord_bot_wiki](https://github.com/als0m3/discord_bot_wiki) | Discord bot for looking up Wikipedia articles in French and English. |
-| [install-elk](https://github.com/als0m3/install-elk) | Shell scripts for an Elasticsearch lab with Kibana and Metricbeat. |
-
 ## My toolkit
 
 - **Code:** Python, Rust, Bash, JavaScript, Swift.
